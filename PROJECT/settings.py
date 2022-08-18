@@ -32,7 +32,7 @@ SECRET_KEY = '8852Dca2A63F2Dfaf193594E13C6293A5D191Ad9E18B2151'
 DEBUG = True
 
 # ALLOWED_HOSTS = ['*']
-ALLOWED_HOSTS = ['family-associatior-a.herokuapp.com']
+ALLOWED_HOSTS = ['family-associatior-a.herokuapp.com' , '127.0.0.1']
 
 
 # Application definition
